@@ -36,7 +36,8 @@ Contribution Guidelines
 
 We're here to support your journey with RealEstateCRM. If you have questions, encounter issues, or need assistance, don't hesitate to reach out. Our responsive support team is dedicated to helping you succeed.
 
-For support inquiries, email us at: SwapSignal infotechh@gmail.com
+For support inquiries, email us at:Admin panel 
+payaldhiman0506@gmail.com
 
 ## **License**
 
@@ -46,7 +47,8 @@ RealEstateCRM is released under the MIT License. Feel free to use, modify, and d
 
 We value your feedback and ideas. If you have suggestions for new features or customization options, we'd love to hear from you. Let's work together to shape the future of RealEstateCRM.
 
-Contact us at: SwapSignal infotechh@gmail.com
+Contact us at:Admin panel 
+payaldhiman0506@gmail.com
 
 ## **Social Media**
 
